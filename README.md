@@ -22,7 +22,7 @@
 
 ### Git
 <details>
-- Todo
+- [グローバルな .gitignore を作る](git/global-gitignore.md)
 </details>
 
 ### Python
