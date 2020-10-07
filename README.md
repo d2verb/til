@@ -29,7 +29,9 @@
 
 ### Python
 <details>
-- Todo
+  
+- [Python で静的ダックタイピング](python/protocol.md)
+
 </details>
 
 ### Other TIL Collections
