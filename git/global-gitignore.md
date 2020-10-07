@@ -14,5 +14,5 @@ $ git config --global core.excludesFile ~/.gitignore
 ```
 
 ---
-参考
+参考文献
 - https://qiita.com/takuya0301/items/29187aa088d04cf92659
