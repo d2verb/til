@@ -27,6 +27,7 @@
 <details>
   
 - [グローバルな .gitignore を作る](git/global-gitignore.md)
+- [GitHub のコードオーナー](git/codeowners.md)
 
 </details>
 
