@@ -50,7 +50,7 @@
 ### Docker
 <details>
   
-- [ローカルにある Docker イメージを DockerHub に push する](unix/push-to-dockerhub.md)
+- [ローカルにある Docker イメージを DockerHub に push する](docker/push-to-dockerhub.md)
   
 </details>
 
