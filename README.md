@@ -37,6 +37,7 @@
 <details>
   
 - [Python で静的ダックタイピング](python/protocol.md)
+- [Python のバイトコードが見たい](python/inspect-python-bytecode.md)
 
 </details>
 
