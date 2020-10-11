@@ -2,7 +2,10 @@
 まずは、バイトコードが見たいファイルをコンパイルする。
 ```
 $ cat sample.py
+def hello(name):
+    print(name)
 
+hello("Tom")
 $ python -m compileall sample.py
 ```
 
