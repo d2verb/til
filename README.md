@@ -44,6 +44,7 @@
 <details>
   
 - [複数のファイル内の文字列を置換したい](unix/replace-string-in-files.md)
+- [man コマンドをインストールしたい](unix/install-man.md)
   
 </details>
 
