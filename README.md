@@ -14,6 +14,7 @@
 * [Git](#git)
 * [Unix](#unix)
 * [Docker](#docker)
+* [JavaScript](#javascript)
 
 ---
 
@@ -54,6 +55,13 @@
   
 - [ローカルにある Docker イメージを DockerHub に push する](docker/push-to-dockerhub.md)
   
+</details>
+
+### JavaScript
+<details>
+
+- [Fetch API でレスポンスのステータスコードが 404 の場合に reject したい](javascript/fetch-reject-404.md)
+
 </details>
 
 ### Other TIL Collections
