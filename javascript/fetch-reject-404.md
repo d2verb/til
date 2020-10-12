@@ -16,3 +16,10 @@ fetch("http://example.com/api/articles")
   });
 ```
 ちなみに、 `response.ok` はステータスコードが 200 ~ 299 の範囲内にある場合に true になる。したがって、正確にいうと上記のコードはステータスコードが 200 ~ 299 の範囲外の場合に promise を reject する。
+
+-----
+参考文献
+
+[1] https://developer.mozilla.org/ja/docs/Web/API/Fetch_API
+
+[2] https://developer.mozilla.org/ja/docs/Web/API/Response
