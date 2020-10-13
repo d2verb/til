@@ -15,6 +15,7 @@
 * [Unix](#unix)
 * [Docker](#docker)
 * [JavaScript](#javascript)
+* [Infra](#infra)
 
 ---
 
@@ -61,6 +62,13 @@
 <details>
 
 - [Fetch API でレスポンスのステータスコードが 404 の場合に reject したい](javascript/fetch-reject-404.md)
+
+</details>
+
+### Infra
+<details>
+
+- [AWS SNS から AWS Lambda にメッセージを発行するときのペイロード](infra/payload-from-sns-to-lambda.md )
 
 </details>
 
