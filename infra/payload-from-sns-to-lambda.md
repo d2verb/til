@@ -16,7 +16,7 @@ def lambda_handler(event, context):
     http.request('POST',url, body=encoded_msg)
 ```
 
-タイトルを `This is test`、メッセージ本文を `これはテストです。` にして SNS からメッセージを送信すると、以下の event が飛んできました。
+タイトルを `This is test`、メッセージ本文を `これはテストです。` にして SNS からメッセージを発行すると、以下の event が飛んできました。
 ```json
 {
   "Records": [
