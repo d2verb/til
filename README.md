@@ -68,7 +68,8 @@
 ### Infra
 <details>
 
-- [AWS SNS から AWS Lambda にメッセージを発行するときのペイロード](infra/payload-from-sns-to-lambda.md )
+- [AWS SNS から AWS Lambda にメッセージを発行するときのペイロード](infra/payload-from-sns-to-lambda.md)
+- [serverless framework は aws profile の region を使わない](infra/sls-region.md)
 
 </details>
 
