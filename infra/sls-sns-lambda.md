@@ -1,4 +1,4 @@
-# serverless framework で AWS SNS のメッセージ発行をきっかけに起動する lambda function を作る
+# serverless framework で AWS SNS のメッセージ受け取る lambda function を作る
 
 `sls` コマンドでプロジェクトを作成して、 serverless.yml と handler.py を以下のように変更する。以下の yaml ファイルでは、lambda function と共に sns topic と subscription を同時に作成する。
 
