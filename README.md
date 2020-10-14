@@ -24,6 +24,7 @@
   
 - [Laravel8 でも afterCreatingState したい](php/laravel8-aftercreatingstate.md)
 - [Laravel の validated の存在意義](php/laravel-validated-method.md)
+- [PHP の instanceof は親クラスもインターフェースもチェックできる](php/instanceof.md)
 
 </details>
 
