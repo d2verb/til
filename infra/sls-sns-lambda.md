@@ -68,3 +68,8 @@ ServerlessDeploymentBucketName: sns-lambda-dev-serverlessdeploymentbucket-123456
 ```
 
 デプロイが完了したあと、 SNS のマネジメントコンソールからメッセージを発行して、cloudwatch logs から lambda のログを見てみると、送信したメッセージがあるはず。
+
+-----
+参考文献
+
+[1] https://www.serverless.com/framework/docs/providers/aws/events/sns/
