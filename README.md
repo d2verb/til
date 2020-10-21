@@ -74,6 +74,7 @@
 - [AWS SNS から AWS Lambda にメッセージを発行するときのペイロード](infra/payload-from-sns-to-lambda.md)
 - [serverless framework は aws profile の region を使わない](infra/sls-region.md)
 - [serverless framework で AWS SNS のメッセージ受け取る lambda function を作る](infra/sls-sns-lambda.md)
+- [Apache のバージョンを隠す](infra/hide-apache-version.md)
 
 </details>
 
