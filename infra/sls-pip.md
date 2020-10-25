@@ -15,7 +15,7 @@ plugins:
 また、 non-pure-Python なパッケージをビルドしたい場合 `serverless.yml` に以下を追加しておく。 `docker-lmabda` イメージの環境内でビルドが実行される。
 なお、`dockerizePip: non-linux` とすると non-linux の環境でのみ `dockerizePip` が効くようになる。
 
-```
+```yaml
 custom:
   pythonRequirements:
     dockerizePip: true
