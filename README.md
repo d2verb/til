@@ -77,6 +77,7 @@
 - [serverless framework で AWS SNS のメッセージ受け取る lambda function を作る](infra/sls-sns-lambda.md)
 - [Apache のバージョンを隠す](infra/hide-apache-version.md)
 - [serverless framework で CloudWatch Logs にログを吐く lambda function を作る](infra/sls-cloudwatch-logs.md)
+- [serverless framework で Python のパッケージをインストールしてデプロイしたい](infra/sls-pip.md)
 
 </details>
 
