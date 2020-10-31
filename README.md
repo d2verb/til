@@ -18,6 +18,7 @@
 * [Infra](#infra)
 * [Network](#network)
 * [CTF](#ctf)
+* [C/C++](#c/c++)
 
 ---
 
@@ -28,6 +29,7 @@
 - [Laravel の validated の存在意義](php/laravel-validated-method.md)
 - [PHP の instanceof は親クラスもインターフェースもチェックできる](php/instanceof.md)
 - [Laravel で Notifiable なしで通知を送る](php/laravel-notification-without-notifiable.md)
+- [Laravel でテストで app コンテナが作られるタイミングと注意すべきこと](php/before-and-after-createApplication-in-laravel.md)
 
 </details>
 
@@ -44,6 +46,8 @@
   
 - [Python で静的ダックタイピング](python/protocol.md)
 - [Python のバイトコードが見たい](python/inspect-python-bytecode.md)
+- [copy と deepcopy について](python/copy-and-deepcopy.md)
+- [unittest で標準出力をモックする](python/mock-stdout.md)
 
 </details>
 
@@ -52,6 +56,7 @@
   
 - [複数のファイル内の文字列を置換したい](unix/replace-string-in-files.md)
 - [man コマンドをインストールしたい](unix/install-man.md)
+- [macOS で実行ファイルがリンクしている共有ライブラリを調べる](unix/mac-find-linked-libs.md )
   
 </details>
 
@@ -94,6 +99,13 @@
 
 - [Buffer Overflow 発生時に buffer 先頭からリターンアドレスまでの offset を調べる](ctf/bof-offset.md)
 - [format string attack の tips](ctf/fsa-tips.md)
+
+</details>
+
+### C/C++
+<details>
+
+- [GDB で C++ の名前修飾を demange する](c_cpp/gdb-demangle.md)
 
 </details>
 
