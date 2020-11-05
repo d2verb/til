@@ -1,5 +1,5 @@
 # Linux の cgroup のメモ
-cgroup (control group) はプロセスをグループ化し、グループに対して CPU やメモリなどのリソースを制限できる Linux の機能である。ここでは、 cgroup の使い方をいくつか示す。
+cgroup (control group) はプロセスをグループ化し、グループに対して CPU やメモリなどのリソースを制限できる Linux の機能である。ここでは、 cgroup の使い方をすこし説明する。
 
 ## cgroupfs
 
