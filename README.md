@@ -48,6 +48,7 @@
 - [Python のバイトコードが見たい](python/inspect-python-bytecode.md)
 - [copy と deepcopy について](python/copy-and-deepcopy.md)
 - [unittest で標準出力をモックする](python/mock-stdout.md)
+- [コンストラクタで任意の属性を指定できるクラス](python/bunch.md)
 
 </details>
 
