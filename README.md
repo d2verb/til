@@ -30,6 +30,7 @@
 - [PHP の instanceof は親クラスもインターフェースもチェックできる](php/instanceof.md)
 - [Laravel で Notifiable なしで通知を送る](php/laravel-notification-without-notifiable.md)
 - [Laravel でテストでサービスコンテナが作られるタイミングと注意すべきこと](php/before-and-after-createApplication-in-laravel.md)
+- [マーカーインターフェース](php/marker-interface.md)
 
 </details>
 
